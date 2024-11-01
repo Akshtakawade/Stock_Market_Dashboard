@@ -1,5 +1,0 @@
-yfinace
-pandas
-numpy
-matplotlib
-requests
